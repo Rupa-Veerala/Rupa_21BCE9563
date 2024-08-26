@@ -36,7 +36,7 @@ Welcome to the Chess Game project! This is a browser-based chess game implemente
 
 <B>./Chess/css/style.css</B>: CSS stylesheet for styling the chessboard and player cards.
 
-<B>./Chess/javascript/javascript/Script.js<B>: JavaScript file containing the game logic, including piece movement and game state management.
+<B>./Chess/javascript/javascript/Script.js</B>: JavaScript file containing the game logic, including piece movement and game state management.
 
 # How to Play
 
