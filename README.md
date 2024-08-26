@@ -18,8 +18,10 @@ Game Status Tracking: Keeps track of game status, including start, end, and winn
 
 Game History: Option to preview match history.
 
-# Technologies Used
+# Installation
 
-# HTML # CSS # JavaScript
+1. Clone the repository:
+
+   git clone https://github.com/R/chess-game.git
 
 
