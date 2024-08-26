@@ -22,6 +22,32 @@ Game History: Option to preview match history.
 
 1. Clone the repository:
 
-   git clone https://github.com/R/chess-game.git
+   git clone https://github.com/Rupa-Veerala/Rupa_21BCE9563.git
+
+2. Navigate to the project directory:
+
+   cd Rupa_21BCE9563
+   
+3. Open index.htm in your web browser.
+
+# Project Structure
+
+index.html: The main HTML file for the chess game.
+
+./Chess/css/style.css: CSS stylesheet for styling the chessboard and player cards.
+
+./Chess/javascript/javascript/Script.js: JavaScript file containing the game logic, including piece movement and game state management.
+
+# How to Play
+
+Start the Game: Open the index.html file in your browser to begin.
+
+Move Pieces: Click and drag pieces to move them to valid squares.
+
+Timers: Watch the timers count down for each player.
+
+Game End: The game ends when a checkmate is detected or a draw condition is met.
+
+                                                                 THANK YOU
 
 
