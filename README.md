@@ -32,7 +32,7 @@ Game History: Option to preview match history.
 
 # Project Structure
 
-index.html: The main HTML file for the chess game.
+<B>index.html</B>: The main HTML file for the chess game.
 
 ./Chess/css/style.css: CSS stylesheet for styling the chessboard and player cards.
 
